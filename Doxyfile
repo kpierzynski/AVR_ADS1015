@@ -1,0 +1,7 @@
+GENERATE_LATEX = NO
+PROJECT_NAME = "AVR_ADS1015"
+PROJECT_BRIEF = "Driver code for AVR to control ADS1015 ADC sensor"
+
+GENERATE_TREEVIEW      = YES 
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO
